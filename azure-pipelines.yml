@@ -22,7 +22,7 @@ steps:
 
 - task: AzureCLI@2
   inputs:
-    azureSubscription: 'your-azure-subscription'
+    azureSubscription: 'Free Trial(2fbba3e0-9452-4aca-acdc-c97c484c6b44)'
     scriptType: 'bash'
     scriptLocation: 'inlineScript'
     inlineScript: |
